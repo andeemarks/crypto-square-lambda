@@ -1,12 +1,12 @@
 {
-  "name": "google-nodejs",
+  "name": "crypto-square-lambda",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "serverless.com",
+  "author": "Andy Marks",
   "license": "MIT",
   "devDependencies": {
     "serverless-google-cloudfunctions": "*"
