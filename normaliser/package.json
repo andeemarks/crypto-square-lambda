@@ -10,6 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "mocha": "^6.0.2",
+    "node-mocks-http": "^1.7.3",
     "serverless-google-cloudfunctions": "*"
   }
 }
